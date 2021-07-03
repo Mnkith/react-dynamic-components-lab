@@ -1,5 +1,5 @@
 # React Dynamic Components Lab
-
+ 
 ## Learning Goals
 
 - Practice writing dynamic components
